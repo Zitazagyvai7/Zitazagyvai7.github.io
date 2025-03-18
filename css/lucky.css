@@ -28,3 +28,7 @@ body {
     margin-top: 1rem;
     font-variant: small-caps;
 }
+#discount{
+    position: absolute;
+    height: 100px;
+}
