@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
 body {
     background-color: #fbefdb;
-    font-family: "Oi", serif;
+    font-family: "Fridericka the great", serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -31,4 +31,20 @@ body {
 #discount{
     position: absolute;
     height: 100px;
+}
+h1{
+    font-family: 'Fridericka the great' cursive;
+    color: #1f5b25;
+    text-align: center;
+}
+.footer{
+    background-color: #1f5b25;
+    color: white;
+}
+footer li{
+    list-style: none;
+}
+footer li>img{
+    width: 15px;
+    margin-right: 10px;
 }
