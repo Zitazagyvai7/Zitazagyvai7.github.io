@@ -7,7 +7,7 @@ body {
 }
 
 .banner{
-    background-image: url(/Zitazagyvai7.github.io/img2/sutemeny\ talca.jpg);
+    background-image: url(/Zitazagyvai7.github.io/img/banner.jpg);
     height: 400px;
     background-position: center center;
     background-size: cover;
@@ -44,4 +44,15 @@ footer li>img{
 }
 .modal-content{
     background-color: #eadac0;
+}
+.Blogimg{
+    font-size: 18rem;
+    width: 25rem;
+    padding-left: 5%
+
+}
+.Kavezo{
+    font-size: 18rem;
+    width: 25rem;
+    padding-left: 5%;
 }
