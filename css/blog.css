@@ -46,13 +46,16 @@ footer li>img{
     background-color: #eadac0;
 }
 .Blogimg{
+    padding-left: 5%;
     font-size: 18rem;
     width: 25rem;
-    padding-left: 5%
-
 }
 .Kavezo{
-    font-size: 18rem;
+    font-size: 10rem;
     width: 25rem;
     padding-left: 5%;
+}
+.Blog{
+    flex-direction: row;
+    display: flex;
 }
